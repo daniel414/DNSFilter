@@ -1,3 +1,1 @@
 ||a.line.me^$important
-||dad-api.dcard.tw^
-||xlate.dcard.tw^
