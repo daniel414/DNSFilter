@@ -21,9 +21,9 @@
 ||linecrs.line-scdn.net^$important
 ||voom-assets.line-scdn.net^$important
 ||obs.line-scdn.net^$important
-||today-obs.line-scdn.net^$important
+! ||today-obs.line-scdn.net^$important
 ||voom-obs.line-scdn.net^$important
-||today.line.me^$important
+! ||today.line.me^$important
 ||jp-col-tcp.nelo.linecorp.com^$important
 ||uts-front.line-apps.com^$important
 ||ad.line-scdn.net^$important
